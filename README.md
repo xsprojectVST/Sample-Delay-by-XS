@@ -1,0 +1,1 @@
+Sample Delay by XS is a precision stereo widening tool designed to add space, movement, and rhythmic energy to your tracks. It works especially well on drums and lead sounds, helping them feel wider, punchier, and more alive
