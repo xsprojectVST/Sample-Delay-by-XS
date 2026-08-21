@@ -6,6 +6,8 @@ Designed for mixing, stereo alignment, phase correction, sound design and creati
 
 ![Sample Delay by XS](Sample%20Delay%20by%20XS.png)
 
+[Watch Demo Video]([Demo%20video.mp4](https://youtu.be/8i7-tHXmDM0))
+
 ## Features
 
 * Independent **Left / Right sample delay**
@@ -133,12 +135,6 @@ Inverts the polarity of the selected channel.
 Each channel can be bypassed independently.
 
 A global bypass control is also available.
-
-## Demo
-
-A demonstration video is included in this repository:
-
-[Watch Demo Video](Demo%20video.mp4)
 
 ## Compatibility
 
