@@ -4,7 +4,7 @@
 
 Designed for mixing, stereo alignment, phase correction, sound design and creative stereo processing.
 
-![Sample Delay by XS](Sample%20Delay%20by%20XS.png) 
+
 
 ## Watch Demo Video (Youtube):
 [![Watch Demo Video](https://img.youtube.com/vi/8i7-tHXmDM0/maxresdefault.jpg)](https://youtu.be/8i7-tHXmDM0)
